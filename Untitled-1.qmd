@@ -1,0 +1,15 @@
+---
+title: "Untitled"
+author: "Yongyi Zeng"
+date: 2025-02-13
+format: html
+---
+
+```{python}
+1+2
+```
+
+
+```{r}
+mtcars
+```
